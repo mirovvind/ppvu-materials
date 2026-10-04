@@ -303,6 +303,8 @@ def guarded(check: Any, *args: Any) -> None:
             where = where.tb_next
         name = where.tb_frame.f_code.co_name if where else "?"
         report(False, f"Функция {name} ещё не реализована")
+    except Exception as error:  # noqa: BLE001 — сообщаем о любой ошибке
+        report(False, f"{type(error).__name__}: {error}")
 
 
 def main() -> None:
