@@ -1,0 +1,7 @@
+# Ссылка на локальный акт из одних пробелов
+[criteria]
+basis = "   "
+year_from = 2025
+year_to = 2025
+max_level = 2
+registry_version = "учебный справочник от 01.09.2026"
