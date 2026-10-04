@@ -1,0 +1,909 @@
+{
+  "status": "ok",
+  "message-type": "work-list",
+  "message": {
+    "total-results": 30,
+    "items": [
+      {
+        "DOI": "10.5555/pw2.0001",
+        "type": "journal-article",
+        "title": [
+          "Нормализация идентификаторов публикаций в задачах наукометрии"
+        ],
+        "container-title": [
+          "Вестник прикладной информатики"
+        ],
+        "ISSN": [
+          "2071-2456",
+          "2310-9874"
+        ],
+        "author": [
+          {
+            "given": "Анна",
+            "family": "Смирнова",
+            "sequence": "first"
+          },
+          {
+            "given": "Борис",
+            "family": "Кузнецов",
+            "sequence": "additional"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/PW2.0002",
+        "type": "journal-article",
+        "title": [
+          "Модель данных для учёта научных изданий"
+        ],
+        "container-title": [
+          "Вестник прикладной информатики"
+        ],
+        "ISSN": [
+          "20712456"
+        ],
+        "author": [
+          {
+            "given": "Борис",
+            "family": "Кузнецов",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0003",
+        "type": "journal-article",
+        "title": [
+          "Проверка публикаций по перечню изданий: опыт кафедры"
+        ],
+        "container-title": [
+          "Вестник прикладной информатики"
+        ],
+        "ISSN": [
+          "2310 9874"
+        ],
+        "author": [
+          {
+            "given": "Вера",
+            "family": "Орлова",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0004",
+        "type": "journal-article",
+        "title": [
+          "Data quality in bibliographic metadata"
+        ],
+        "container-title": [
+          "Journal of Applied Data Studies"
+        ],
+        "ISSN": [
+          "2587-120x"
+        ],
+        "author": [
+          {
+            "given": "Глеб",
+            "family": "Соколов",
+            "sequence": "first"
+          },
+          {
+            "given": "Анна",
+            "family": "Смирнова",
+            "sequence": "additional"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0005",
+        "type": "journal-article",
+        "title": [
+          "Сопоставление названий журналов из разных источников"
+        ],
+        "container-title": [
+          "Труды учебной конференции по анализу данных"
+        ],
+        "author": [
+          {
+            "given": "Дина",
+            "family": "Морозова",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0006",
+        "type": "journal-article",
+        "title": [
+          "Автоматизация подготовки служебных записок"
+        ],
+        "ISSN": [
+          "1811-9026"
+        ],
+        "author": [
+          {
+            "given": "Егор",
+            "family": "Волков",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "https://doi.org/10.5555/pw2.0007",
+        "type": "journal-article",
+        "title": [
+          "Воспроизводимость вычислений в учебных проектах"
+        ],
+        "container-title": [
+          "Учебный журнал автоматизации"
+        ],
+        "ISSN": [
+          "1993-4017"
+        ],
+        "author": [
+          {
+            "given": "Анна",
+            "family": "Смирнова",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0008",
+        "type": "journal-article",
+        "title": [
+          "Входной контроль данных из внешних сервисов"
+        ],
+        "container-title": [
+          "Вестник биотехнологических систем"
+        ],
+        "ISSN": [
+          "2412-5687",
+          "0869-7310"
+        ],
+        "author": [
+          {
+            "given": "Борис",
+            "family": "Кузнецов",
+            "sequence": "first"
+          },
+          {
+            "given": "Вера",
+            "family": "Орлова",
+            "sequence": "additional"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        },
+        "publisher": "Учебное издательство",
+        "page": "12-19",
+        "is-referenced-by-count": 3
+      },
+      {
+        "DOI": "10.5555/PW2.0001",
+        "type": "journal-article",
+        "title": [
+          "Нормализация  идентификаторов публикаций в задачах «наукометрии»"
+        ],
+        "container-title": [
+          "Вестник прикладной информатики"
+        ],
+        "ISSN": [
+          "2071-2456",
+          "2310-9874"
+        ],
+        "author": [
+          {
+            "given": "Анна",
+            "family": "Смирнова",
+            "sequence": "first"
+          },
+          {
+            "given": "Борис",
+            "family": "Кузнецов",
+            "sequence": "additional"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "type": "journal-article",
+        "title": [
+          "Публикация без идентификатора"
+        ],
+        "container-title": [
+          "Учебный журнал автоматизации"
+        ],
+        "ISSN": [
+          "1993-4017"
+        ],
+        "author": [
+          {
+            "given": "Глеб",
+            "family": "Соколов",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0011",
+        "type": "journal-article",
+        "title": [],
+        "container-title": [
+          "Journal of Applied Data Studies"
+        ],
+        "ISSN": [
+          "0234-5676",
+          "2587-120X"
+        ],
+        "author": [
+          {
+            "given": "Дина",
+            "family": "Морозова",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0012",
+        "type": "journal-article",
+        "container-title": [
+          "Труды учебной конференции по анализу данных"
+        ],
+        "ISSN": [
+          "1811-9026"
+        ],
+        "author": [
+          {
+            "given": "Егор",
+            "family": "Волков",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": 12345,
+        "type": "journal-article",
+        "title": [
+          "Идентификатор в числовом виде"
+        ],
+        "container-title": [
+          "Вестник биотехнологических систем"
+        ],
+        "ISSN": [
+          "2412-5687",
+          "0869-7310"
+        ],
+        "author": [
+          {
+            "given": "Анна",
+            "family": "Смирнова",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0014",
+        "type": "journal-article",
+        "title": [
+          "Номер издания записан строкой"
+        ],
+        "container-title": [
+          "Учебный журнал автоматизации"
+        ],
+        "ISSN": "1993-4017",
+        "author": [
+          {
+            "given": "Борис",
+            "family": "Кузнецов",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0015",
+        "type": "journal-article",
+        "title": [
+          ""
+        ],
+        "container-title": [
+          "Вестник прикладной информатики"
+        ],
+        "ISSN": [
+          "2071-2456",
+          "2310-9874"
+        ],
+        "author": [
+          {
+            "given": "Вера",
+            "family": "Орлова",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0016",
+        "type": "journal-article",
+        "title": [
+          "Контрольный разряд международного номера издания"
+        ],
+        "container-title": [
+          "Вестник прикладной информатики"
+        ],
+        "ISSN": [
+          "2071-2457"
+        ],
+        "author": [
+          {
+            "given": "Глеб",
+            "family": "Соколов",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0017",
+        "type": "journal-article",
+        "title": [
+          "Ошибки ручного ввода номеров изданий"
+        ],
+        "container-title": [
+          "Труды учебной конференции по анализу данных"
+        ],
+        "ISSN": [
+          "1811-90266"
+        ],
+        "author": [
+          {
+            "given": "Дина",
+            "family": "Морозова",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0018",
+        "type": "journal-article",
+        "title": [
+          "Публикация с неуказанным годом выхода"
+        ],
+        "container-title": [
+          "Вестник биотехнологических систем"
+        ],
+        "ISSN": [
+          "2412-5687",
+          "0869-7310"
+        ],
+        "author": [
+          {
+            "given": "Егор",
+            "family": "Волков",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              null
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0019",
+        "type": "journal-article",
+        "title": [
+          "Публикация без сведений о дате"
+        ],
+        "container-title": [
+          "Journal of Applied Data Studies"
+        ],
+        "ISSN": [
+          "0234-5676",
+          "2587-120X"
+        ],
+        "author": [
+          {
+            "given": "Анна",
+            "family": "Смирнова",
+            "sequence": "first"
+          },
+          {
+            "given": "Глеб",
+            "family": "Соколов",
+            "sequence": "additional"
+          }
+        ]
+      },
+      {
+        "DOI": "doi:10.5555/pw2.0020",
+        "type": "journal-article",
+        "title": [
+          "Префиксы в записи цифрового идентификатора"
+        ],
+        "container-title": [
+          "Journal of Applied Data Studies"
+        ],
+        "ISSN": [
+          "0234-5676",
+          "2587-120X"
+        ],
+        "author": [
+          {
+            "given": "Борис",
+            "family": "Кузнецов",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "type": "journal-article",
+        "title": [
+          "Вторая публикация без идентификатора"
+        ],
+        "container-title": [
+          "Труды учебной конференции по анализу данных"
+        ],
+        "ISSN": [
+          "1811-9026"
+        ],
+        "author": [
+          {
+            "given": "Вера",
+            "family": "Орлова",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0022",
+        "type": "journal-article",
+        "title": [
+          "Квартили изданий по предметным областям"
+        ],
+        "container-title": [
+          "Journal of Applied Data Studies"
+        ],
+        "ISSN": [
+          "0234-5676",
+          "2587-120X"
+        ],
+        "author": [
+          {
+            "given": "Глеб",
+            "family": "Соколов",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0023",
+        "type": "journal-article",
+        "title": [
+          "Уровни изданий в едином перечне"
+        ],
+        "container-title": [
+          "Вестник биотехнологических систем"
+        ],
+        "ISSN": [
+          "2412-5687",
+          "0869-7310"
+        ],
+        "author": [
+          {
+            "given": "Дина",
+            "family": "Морозова",
+            "sequence": "first"
+          },
+          {
+            "given": "Егор",
+            "family": "Волков",
+            "sequence": "additional"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0024",
+        "type": "journal-article",
+        "title": [
+          "Сводка публикаций кафедры за отчётный период"
+        ],
+        "container-title": [
+          "Учебный журнал автоматизации"
+        ],
+        "ISSN": [
+          "1993-4017"
+        ],
+        "author": [
+          {
+            "given": "Егор",
+            "family": "Волков",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0025",
+        "type": "journal-article",
+        "title": [
+          "Связь публикации и издания в модели данных"
+        ],
+        "container-title": [
+          "Вестник прикладной информатики"
+        ],
+        "ISSN": [
+          "2071-2456",
+          "2310-9874"
+        ],
+        "author": [
+          {
+            "given": "Анна",
+            "family": "Смирнова",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0026",
+        "type": "journal-article",
+        "title": [
+          "Метаданные публикаций в открытых каталогах"
+        ],
+        "container-title": [
+          "Journal of Applied Data Studies"
+        ],
+        "ISSN": [
+          "0234-5676"
+        ],
+        "author": [
+          {
+            "given": "Борис",
+            "family": "Кузнецов",
+            "sequence": "first"
+          },
+          {
+            "given": "Дина",
+            "family": "Морозова",
+            "sequence": "additional"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0027",
+        "type": "journal-article",
+        "title": [
+          "Журнал отклонений как средство контроля полноты"
+        ],
+        "container-title": [
+          "Труды учебной конференции по анализу данных"
+        ],
+        "ISSN": [
+          "1811-9026"
+        ],
+        "author": [
+          {
+            "given": "Вера",
+            "family": "Орлова",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2024,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0028",
+        "type": "journal-article",
+        "title": [
+          "Перечисления в описании предметной области"
+        ],
+        "container-title": [
+          "Вестник биотехнологических систем"
+        ],
+        "ISSN": [
+          "0869 7310"
+        ],
+        "author": [
+          {
+            "given": "Глеб",
+            "family": "Соколов",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0029",
+        "type": "journal-article",
+        "title": [
+          "Степень достоверности результата сопоставления"
+        ],
+        "container-title": [
+          "Учебный журнал автоматизации"
+        ],
+        "ISSN": [
+          "1993-4017"
+        ],
+        "author": [
+          {
+            "given": "Дина",
+            "family": "Морозова",
+            "sequence": "first"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2025,
+              3,
+              15
+            ]
+          ]
+        }
+      },
+      {
+        "DOI": "10.5555/pw2.0030",
+        "type": "journal-article",
+        "title": [
+          "Неизменяемые записи результатов проверки"
+        ],
+        "container-title": [
+          "Вестник прикладной информатики"
+        ],
+        "ISSN": [
+          "2071-2456",
+          "2310-9874"
+        ],
+        "author": [
+          {
+            "given": "Егор",
+            "family": "Волков",
+            "sequence": "first"
+          },
+          {
+            "given": "Анна",
+            "family": "Смирнова",
+            "sequence": "additional"
+          }
+        ],
+        "issued": {
+          "date-parts": [
+            [
+              2023,
+              3,
+              15
+            ]
+          ]
+        }
+      }
+    ]
+  }
+}
