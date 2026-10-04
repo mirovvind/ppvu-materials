@@ -12,7 +12,8 @@ from src.criteria import load_criteria
 for path in sorted(Path("sandbox/configs").glob("*.toml")):
     try:
         rules = load_criteria(path)
-        print(f"ПРИНЯТА   {path.name}: {rules}")
+        period = f"{rules.year_from}–{rules.year_to}"
+        print(f"ПРИНЯТА   {path.name}: {period}, У{rules.max_level}")
     except ValidationError as error:
         first = error.errors()[0]
         print(f"ОТКЛОНЕНА {path.name}: {first['msg']}")

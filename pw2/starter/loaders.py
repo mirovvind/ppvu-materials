@@ -40,7 +40,7 @@ def check_records(
 
 
 def save_rejected(rejected: list[tuple[Any, str]], path: Path) -> None:
-    """Записывает журнал отклонений в файл CSV.
+    """Записывает перечень отклонённых записей в файл CSV.
 
     Первая строка файла — заголовок doi,reason; далее по строке
     на каждую отклонённую запись.

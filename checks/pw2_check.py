@@ -131,9 +131,9 @@ def check_loaders() -> None:
         with log.open(encoding="utf-8", newline="") as file:
             rows = list(csv.reader(file))
         count = len(rows) - 1
-        report(count in (6, 7), f"журнал отклонений: записей {count}")
+        report(count in (6, 7), f"перечень отклонённых записей: записей {count}")
     else:
-        report(False, "нет журнала отклонений data/output/rejected.csv")
+        report(False, "нет перечня отклонённых записей data/output/rejected.csv")
 
 
 if __name__ == "__main__":
